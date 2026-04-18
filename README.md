@@ -1,2 +1,2 @@
 # test2
-testing web
+This repo is only used for testing project
